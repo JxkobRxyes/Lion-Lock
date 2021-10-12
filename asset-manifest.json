@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lion-lock/static/css/main.297991f4.chunk.css",
+    "main.js": "/lion-lock/static/js/main.72fe9725.chunk.js",
+    "main.js.map": "/lion-lock/static/js/main.72fe9725.chunk.js.map",
+    "runtime-main.js": "/lion-lock/static/js/runtime-main.17ae556e.js",
+    "runtime-main.js.map": "/lion-lock/static/js/runtime-main.17ae556e.js.map",
+    "static/js/2.a43a9ea4.chunk.js": "/lion-lock/static/js/2.a43a9ea4.chunk.js",
+    "static/js/2.a43a9ea4.chunk.js.map": "/lion-lock/static/js/2.a43a9ea4.chunk.js.map",
+    "index.html": "/lion-lock/index.html",
+    "static/css/main.297991f4.chunk.css.map": "/lion-lock/static/css/main.297991f4.chunk.css.map",
+    "static/js/2.a43a9ea4.chunk.js.LICENSE.txt": "/lion-lock/static/js/2.a43a9ea4.chunk.js.LICENSE.txt",
+    "static/media/bg-image.6b2ba756.jpg": "/lion-lock/static/media/bg-image.6b2ba756.jpg",
+    "static/media/svg-1.svg": "/lion-lock/static/media/svg-1.861d04d8.svg",
+    "static/media/svg-2.svg": "/lion-lock/static/media/svg-2.9a226c8a.svg",
+    "static/media/svg-3.svg": "/lion-lock/static/media/svg-3.9c1c931c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17ae556e.js",
+    "static/js/2.a43a9ea4.chunk.js",
+    "static/css/main.297991f4.chunk.css",
+    "static/js/main.72fe9725.chunk.js"
+  ]
+}
